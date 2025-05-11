@@ -49,7 +49,7 @@ A complete industrial design integrating multiple parts with real-world spacing,
 - Subassemblies and Configurations
 
 ## 📷 Preview
-![Full Assembly](./full-assembly.jpg)
+![Image](https://github.com/user-attachments/assets/3cc64793-2c52-491f-8266-bda0fab7961a)
 
 ---
 

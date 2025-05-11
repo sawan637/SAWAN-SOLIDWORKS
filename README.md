@@ -38,7 +38,7 @@ A ventilated enclosure made using sheet metal tools in SolidWorks. Designed for 
 - Features: Bends, Reliefs, Cutouts
 
 ## 📷 Preview
-![Sheet Metal Box](./sheet-metal-box.jpg)
+![Image](https://github.com/user-attachments/assets/91746d68-5924-433a-8cf6-fd88b93835b2)
 
 # Full Mechanical Assembly
 
@@ -57,10 +57,8 @@ A complete industrial design integrating multiple parts with real-world spacing,
 
 I’m open to collaboration, feedback, and professional opportunities.
 
-📫 **Email**: [your.email@example.com]  
-🌐 **Portfolio**: [YourWebsite.com]  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile]  
-🎥 **CAD Demos**: [YouTube Channel link if any]
+📫 **Email**: [sharmasawan328@gmail.com]    
+💼 **LinkedIn**: [linkedin.com/in/sawan-sharma]  
 
 ---
 

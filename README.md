@@ -27,7 +27,7 @@ This model demonstrates a multi-branch pipe junction created in SolidWorks. It u
 - Feature: Loft, Shell, Fillet
 
 ## 📷 Preview
-![Pipe Connector](./pipe-connector.jpg)
+![Image](https://github.com/user-attachments/assets/ba2968e6-dab6-4b02-9f55-ece67cabfbdb)
 
 # Sheet Metal Box
 
